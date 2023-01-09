@@ -1,6 +1,5 @@
 ---
-title: "Testing Post"
-date: 2023-01-09 00:00:00 +0000
+title: Testing Post
 categories: [test]
 ---
 
