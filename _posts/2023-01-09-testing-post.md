@@ -1,6 +1,6 @@
 ---
 title: Testing Post
-date: 2023-01-09 12:00:00 -500
+date: 2023-01-09 19:00:00 +02:00
 categories: [test]
 tags: [test]
 ---
