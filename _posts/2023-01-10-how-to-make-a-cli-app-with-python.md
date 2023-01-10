@@ -144,4 +144,4 @@ In this tutorial, we learned how to make a CLI app with Python. We used the `typ
 
 This should get you started with making CLI apps with Python, but there is a lot more to learn! you can make much more advanced CLI apps with `typer`. I might write another tutorial about it soon; until then, you can read the `typer` [documentation](https://typer.tiangolo.com/).
 
-Thanks for reading! I hope you enjoyed this tutorial. If you have any questions, feel free to ask them in the comments. I will try to answer them as soon as possible.
+Thanks for reading! I hope you enjoyed this tutorial. If you have any questions, feel free to ask them in the comments. I will try to answer them as soon as possible. See ya!
