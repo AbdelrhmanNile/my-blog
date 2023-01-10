@@ -136,7 +136,7 @@ Error: Missing argument "YOUR_NAME".
 oh no! we got an error again! now we need to specify the name. Let's run the `name` command:
 ```console
 $ python app.py name Abdelrhman
-Abdelrhman
+Hello Abdelrhman!
 ```
 
 ## Conclusion
