@@ -1,6 +1,5 @@
 ---
 title: How to make a CLI app with Python?
-author: Abdelrhman Nile
 date: 2023-01-09 21:31:00 +02:00
 categories: [tutorial]
 tags: [python, cli]
