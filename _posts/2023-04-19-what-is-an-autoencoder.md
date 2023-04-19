@@ -13,6 +13,8 @@ In this blog post, we will explore the basics of autoencoders and implement them
 
 An autoencoder is made up of two parts: an encoder and a decoder. The encoder takes the input data and maps it to a lower-dimensional representation, while the decoder maps the lower-dimensional representation back to the original input space. The goal of an autoencoder is to learn a compressed representation of the input data that captures the most important features of the data.
 
+<img src = "https://i.imgur.com/U9TeorA.png">
+
 In order to train an autoencoder, we need to define a loss function that measures the difference between the input data and the reconstructed data. The loss function is typically a mean squared error function or a binary cross-entropy function.
 
 Autoencoders can be used for various applications, such as:
