@@ -150,4 +150,4 @@ Here, we have added some noise to the sample image and then used the autoencoder
 
 ## Conclusion
 
-In this blog post, we have explored the basics of autoencoders and implemented them using TensorFlow. We have also seen how autoencoders can be used for dimensionality reduction and for denoising images.
+In this blog post, we have explored the basics of autoencoders and implemented them using TensorFlow. We have also seen how autoencoders can be used for dimensionality reduction and for denoising images. 
