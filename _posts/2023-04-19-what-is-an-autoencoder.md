@@ -3,7 +3,9 @@ title: What is an AutoEncoder?
 date: 2023-04-19 19:25:00 +02:00
 categories: [AI]
 tags: [deeplearning, machinelearning, autoencoder]
----Autoencoders are neural networks that are widely used for unsupervised learning. They are used to learn a compressed representation of input data by encoding it into a latent space and then decoding it back into the original input space. Autoencoders are used in a variety of applications such as image and speech recognition, anomaly detection, and data compression.
+---
+
+Autoencoders are neural networks that are widely used for unsupervised learning. They are used to learn a compressed representation of input data by encoding it into a latent space and then decoding it back into the original input space. Autoencoders are used in a variety of applications such as image and speech recognition, anomaly detection, and data compression.
 
 In this blog post, we will explore the basics of autoencoders and implement them using TensorFlow.
 
