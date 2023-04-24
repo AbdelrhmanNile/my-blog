@@ -1,5 +1,5 @@
 ---
-title: how to use sklearn pipelines
+title: How to use sklearn pipelines?
 date: 2023-04-24 22:18:45 +02:00
 categories: [AI]
 tags: [machinelearning, sklearn]
