@@ -10,7 +10,7 @@ To create a pipeline, we use the `Pipeline` class from the `sklearn.pipeline` mo
 
 For example, suppose we have a dataset with three types of features: ordinal, nominal, and numerical. We could create three separate pipelines, one for each type of feature, and then combine them using the `ColumnTransformer` class. Here's how we could do this:
 
-```
+```python
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, OrdinalEncoder, OneHotEncoder
@@ -42,7 +42,7 @@ In this example, we first define three pipelines: `ordinal_pipeline`, `nominal_p
 
 We can also add a model to the end of the pipeline, like this:
 
-```
+```python
 from sklearn.linear_model import LogisticRegression
 complete_pipeline = Pipeline([
     ("preprocessor", preprocessing_pipeline),
@@ -58,7 +58,7 @@ Here, we define a `complete_pipeline` that first applies the `preprocessing_pipe
 
 One useful feature of pipelines is that we can use the `GridSearchCV` class to perform hyperparameter tuning across both the preprocessing steps and the model itself. Here's an example of how to do this:
 
-```
+```python
 from sklearn.model_selection import GridSearchCV
 
 param_grid = {
